@@ -1,0 +1,26 @@
+{
+    "id": "A3F0FE01",
+    "path": "~/Desktop/UW/2023_spring/BIOST_561/Healypkg/tests/testthat/test-log_summed_exps_test.R",
+    "project_path": "tests/testthat/test-log_summed_exps_test.R",
+    "type": "r_source",
+    "hash": "100138477",
+    "contents": "",
+    "dirty": false,
+    "created": 1683093406595.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1683093425,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1683093425677,
+    "read_only": false,
+    "read_only_alternatives": []
+}
