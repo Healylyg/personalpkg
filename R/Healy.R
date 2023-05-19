@@ -9,7 +9,7 @@
 #' @examples
 #' ## Pass a numeric vector to log_summed_exps,
 #' ## and it will log the summation of e^x
-#' log_summed_exps(seq(1, 10))
+#' log_summed_exps(seq(1, 10)) change
 #'
 #' @export
 log_summed_exps <- function(x){
@@ -21,3 +21,4 @@ log_summed_exps <- function(x){
   answ <- x[1] + log(sum(exp(x-x[1])))
   return(answ)
 }
+# hello world
